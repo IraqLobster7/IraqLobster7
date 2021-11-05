@@ -1,18 +1,3 @@
-Hi there, I'm Serge
-I am beginner Front-end developer.
-
-<hr>
-
-Contact information:
-Phone: +7 916 641 2158
-E-mail: [ss.barsanov@gmail.com](ss.barsanov@gmail.com)
-Telegram: [@rqlbstr](https://t.me/rqlbstr)
-
-<hr>
-Skills
-
-
-
 <article class="markdown-body entry-content container-lg" itemprop="text"><h3>Hi there , I'm  Serge </h3>
 <p><g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji> I am beginner Front-end developer.</p>
 
