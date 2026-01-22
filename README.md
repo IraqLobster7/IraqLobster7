@@ -1,51 +1,43 @@
 <article class="markdown-body entry-content container-lg" itemprop="text">
 
-<h3>Hi there 👋, I'm Serge</h3>
+<h3>Hi 👋 I'm Serge</h3>
 
 <p>
-System Engineer / DevOps-oriented specialist with 4+ years of experience in
-infrastructure administration, automation, and enterprise systems.
+DevOps-oriented System Engineer (4+ years). I automate infrastructure,
+build reproducible environments, and keep services reliable.
 </p>
 
 <hr>
 
-<h3 id="contact-information">Contact information:</h3>
+<h3 id="contact">Contact</h3>
 <p>
-📧 E-mail: <a href="mailto:ss.barsanov@gmail.com">ss.barsanov@gmail.com</a><br>
-💬 Telegram: <a href="https://t.me/rqlbstr" rel="nofollow">@rqlbstr</a>
+📧 <a href="mailto:ss.barsanov@gmail.com">ss.barsanov@gmail.com</a> ·
+💬 <a href="https://t.me/rqlbstr" rel="nofollow">@rqlbstr</a>
 </p>
 
 <hr>
 
-<h3 id="skills">Skills</h3>
-
+<h3 id="stack">Stack</h3>
 <p>
-☑️ Linux (Ubuntu, Debian, Rocky) + Windows administration<br>
-☑️ Networking basics: DNS/DHCP, routing, firewalls, SSL/TLS<br>
-☑️ VPN (setup & troubleshooting)<br>
-☑️ Ansible & Ansible AWX (inventories, roles, Vault, scheduling)<br>
-☑️ Docker & Docker Compose<br>
-☑️ Kubernetes fundamentals (Pods, Services, Ingress, ConfigMaps, Secrets, RBAC, Jobs, HPA)<br>
-☑️ Git & GitLab CI/CD<br>
-☑️ Monitoring: Zabbix (alerts, dashboards, incident response routines)<br>
+☑️ Linux / Windows · DNS/DHCP · routing · firewalls · SSL/TLS · VPN<br>
+☑️ Ansible + AWX (roles, inventories, Vault, job templates, scheduling)<br>
+☑️ Bash · basic Python · idempotent automation<br>
+☑️ Docker / Compose · Kubernetes fundamentals (RBAC, Pods, Services, Ingress, CM/Secrets, Jobs, HPA)<br>
+☑️ Git · GitLab CI/CD<br>
+☑️ Monitoring & observability: Zabbix · Grafana (basic)<br>
+☑️ Logging: Fluentd · Filebeat<br>
 ☑️ Web stack: Nginx / Apache<br>
-☑️ Databases: MySQL / MariaDB (basic administration)<br>
-☑️ Scripting: Bash, basic Python, JavaScript (basic), PHP (integrations / extensions)<br>
-☑️ VMware & virtualization<br>
+☑️ Databases: PostgreSQL · MySQL/MariaDB · Percona (basic administration)<br>
+☑️ PHP (integrations/extensions) · JavaScript (basic)<br>
+☑️ VMware virtualization
 </p>
 
 <hr>
 
-<h3 id="about">About me</h3>
-
+<h3 id="focus">Focus</h3>
 <p>
-I focus on infrastructure automation, reducing manual operations, and improving reliability
-through reproducible environments and clear documentation.
-</p>
-
-<p>
-Hands-on experience building integrations and internal tooling (CRM/LMS),
-including REST APIs and backend automation.
+Infrastructure automation, CI/CD, observability basics, and clean operational practices.
+Hands-on experience integrating internal systems via REST APIs and backend tooling.
 </p>
 
 </article>
