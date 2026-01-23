@@ -20,15 +20,30 @@ build reproducible environments, and keep services reliable.
 <h3 id="stack">Stack</h3>
 <p>
 ☑️ Linux / Windows · DNS/DHCP · routing · firewalls · SSL/TLS · VPN<br>
+
 ☑️ Ansible + AWX (roles, inventories, Vault, job templates, scheduling)<br>
 ☑️ Bash · basic Python · idempotent automation<br>
-☑️ Docker / Compose · Kubernetes fundamentals (RBAC, Pods, Services, Ingress, CM/Secrets, Jobs, HPA)<br>
+
+☑️ Docker / Compose · Kubernetes fundamentals
+(RBAC, Pods, Services, Ingress, ConfigMaps/Secrets, Jobs, HPA)<br>
+
 ☑️ Git · GitLab CI/CD<br>
-☑️ Monitoring & observability: Zabbix · Grafana (basic)<br>
-☑️ Logging: Fluentd · Filebeat<br>
-☑️ Web stack: Nginx / Apache<br>
-☑️ Databases: PostgreSQL · MySQL/MariaDB · Percona (basic administration)<br>
+
+☑️ Monitoring & observability:
+Zabbix · Grafana (basic) · Prometheus ecosystem (basic)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• exporters · Pushgateway · Blackbox Exporter<br>
+
+☑️ Logging:
+Fluentd · Filebeat<br>
+
+☑️ Web stack:
+Nginx / Apache<br>
+
+☑️ Databases:
+PostgreSQL · MySQL/MariaDB · Percona (basic administration)<br>
+
 ☑️ PHP (integrations/extensions) · JavaScript (basic)<br>
+
 ☑️ VMware virtualization
 </p>
 
@@ -36,7 +51,7 @@ build reproducible environments, and keep services reliable.
 
 <h3 id="focus">Focus</h3>
 <p>
-Infrastructure automation, CI/CD, observability basics, and clean operational practices.
+Infrastructure automation, CI/CD, observability fundamentals, and clean operational practices.
 Hands-on experience integrating internal systems via REST APIs and backend tooling.
 </p>
 
