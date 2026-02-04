@@ -4,7 +4,7 @@
 
 <p>
 DevOps-oriented System Engineer (4+ years). I automate infrastructure,
-build reproducible environments, and keep services reliable.
+build reproducible environments, and operate container platforms.
 </p>
 
 <hr>
@@ -24,26 +24,28 @@ build reproducible environments, and keep services reliable.
 ☑️ Ansible + AWX (roles, inventories, Vault, job templates, scheduling)<br>
 ☑️ Bash · basic Python · idempotent automation<br>
 
-☑️ Docker / Compose · Kubernetes fundamentals
-(RBAC, Pods, Services, Ingress, ConfigMaps/Secrets, Jobs, HPA)<br>
+☑️ Kubernetes administration (kubeadm, kubespray, etcd)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• RBAC · Resource Quotas · VPA<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Workloads · Services · Ingress Controllers<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Helm · cert-manager<br>
 
-☑️ Git · GitLab CI/CD<br>
+☑️ Docker / Docker Compose<br>
 
-☑️ Monitoring & observability:
-Zabbix · Grafana (basic) · Prometheus ecosystem (basic)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• exporters · Pushgateway · Blackbox Exporter<br>
+☑️ CI/CD: Git · GitLab CI/CD<br>
 
-☑️ Logging:
-Fluentd · Filebeat<br>
+☑️ Monitoring & observability:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Zabbix · Grafana (basic)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Prometheus ecosystem (exporters, Pushgateway, Blackbox Exporter)<br>
 
-☑️ Web stack:
-Nginx / Apache<br>
+☑️ Logging:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Fluentd · Filebeat<br>
 
-☑️ Databases:
-PostgreSQL · MySQL/MariaDB · Percona (basic administration)<br>
+☑️ Web stack: Nginx / Apache<br>
+
+☑️ Databases:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• PostgreSQL · MySQL/MariaDB · Percona (basic administration)<br>
 
 ☑️ PHP (integrations/extensions) · JavaScript (basic)<br>
-
 ☑️ VMware virtualization
 </p>
 
@@ -51,8 +53,9 @@ PostgreSQL · MySQL/MariaDB · Percona (basic administration)<br>
 
 <h3 id="focus">Focus</h3>
 <p>
-Infrastructure automation, CI/CD, observability fundamentals, and clean operational practices.
-Hands-on experience integrating internal systems via REST APIs and backend tooling.
+Infrastructure automation, Kubernetes administration, CI/CD,
+and observability fundamentals. Practical experience operating clusters,
+monitoring workloads, and managing ingress, certificates, and logging pipelines.
 </p>
 
 </article>
